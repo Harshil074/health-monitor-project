@@ -6,7 +6,7 @@ echo "Checking Memory"
 
 echo "Health Monitor Started"
 
-echo "Checking CPU"
+echo "Checking CPU Usage"
 
 echo "All good to go"
 
