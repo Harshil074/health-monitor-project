@@ -12,3 +12,4 @@ echo "All good to go"
 
 echo "Sending slack alerts"
 
+echo "GitHub Push Test"
