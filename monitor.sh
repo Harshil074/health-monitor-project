@@ -10,3 +10,5 @@ echo "Checking CPU"
 
 echo "All good to go"
 
+echo "Sending slack alerts"
+
